@@ -1,7 +1,5 @@
-<h1 align="center">Pedra Papel e Tesoura</h1>
-<p align="center">Um dos jogos mais populares da infância... 🪨📜✂️</p>
+<h1 align="center">Rock, Paper, Scissors</h1>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/License-MIT-000?style=social&logo=json&logoColor=469BD2">
   &nbsp;
@@ -9,42 +7,50 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Python-000?style=social&logo=python&logoColor=469BD2">
 </div>
-<br>
 
-## 💻 Situação do projeto:
+## 🗣️ ReadMe:
 
-- Projeto finalizado ✔️
+- English
+- [Portuguese](https://github.com/ArthurVBS/PyRockPaperScissors/blob/main/README-pt.md)
 
-## 🛠 Tecnologias:
+## ✨ About the project:
+
+- 🪨📜✂️ Recreating one of the most popular childhood games.
+
+## 💻 Project status:
+
+- Finished project ✔️
+
+## 🛠 Technologies:
 
 - Python
 - Tkinter (GUI)
 
 ## 📝 Features:
 
-- [x] Um som é tocado, caso ganhe, empate ou perca
-- [x] É possível resetar o placar
+- [x] Make a sound if you win, draw or lose.
+- [x] Allow zero score.
 
-## ⚙️ Pré-requisitos:
+## ⚙️ Prerequisites:
 
-- Python 3 instalado (Preferencialmente > 3.8)
+- Python (^3.9.4)
 
-## 🚀 Como rodar a aplicação?
+## 🚀 How to run the application?
 
-1. Baixe o arquivo .Zip e o descompacte.
-2. Abra a pasta em seu cmd (prompt de comando).
-3. Instale as dependências:
+- 💻 Download the ZIP or Clone the application on your machine,
+- Open a CMD in the root of the project folder,
+- Install the dependencies:
     - `pip install -r requirements.txt`
-4. Execute a aplicação: 
-    - `#Windows: python main.py`
-    - `#Linux/Mac: python3 main.py`
+- Run the application: 
+    - Windows: `python main.py`
+    - Linux/Mac: `python3 main.py`
 
 ## 📝 Licença
 
-- Este projeto está sobe a licença [MIT](https://github.com/ArthurVBS/PyRockPaperScissors/blob/main/LICENSE)
+- This project is licensed under the [MIT](https://github.com/ArthurVBS/PyRockPaperScissors/blob/main/LICENSE)
 
-<h2 align="center">👨🏽‍💻 Autor</h2>
+<h2 align="center">👨🏽‍💻 Author</h2>
 <div align="center">
-  <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="Foto do autor"/>
-  <br><span>Feito por <a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
+  <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="Author's photo"/>
+  <br><span>Made by <a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
 </div>
